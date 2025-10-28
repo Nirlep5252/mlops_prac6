@@ -12,6 +12,7 @@ with open(model_path, 'rb') as f:
 
 
 DB_SERVICE_URL = "http://dbapp_container:5001/record"
+# test
 
 iris_classes = {
     0: 'Setosa',
